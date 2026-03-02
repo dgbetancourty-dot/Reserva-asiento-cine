@@ -29,4 +29,3 @@ for i in range(3):
     # Escribir salto de línea
     print()
     
-    
